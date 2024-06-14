@@ -1,0 +1,60 @@
+body {
+    background-image:url("image1.png");
+        height:100vh;
+        background-size:cover;
+        position:relative;
+    
+  }
+
+h2{
+    color: brown;
+    text-shadow: 1.5cm;
+    text-align: center;
+    font-size: medium;
+    font-family: cursive;
+    font-style: bold;
+}
+nav{
+    color: aquamarine;
+    text-align: left;
+    font-size: x-large;
+    font-family: Verdana;
+    font-style: normal;
+}
+img{
+    border: 1px solid #ddd;  
+    border-radius: 3px;
+    width: 140px;
+    padding: 4px;
+}
+.right-image{
+    float:right;
+
+}
+p{
+    color: black;
+    text-align: right;
+    font-size: 1cm;
+    font-family: Verdana;
+
+}
+p1{
+    color: black;
+    text-align: center;
+    font-size: 0.75cm;
+    font-family: Verdana;
+
+}
+.About{
+    color: black;
+    text-align: left;
+    font-size: 0.5cm;
+    font-family: Verdana;
+}
+.form-box { 
+    background-color: #fff; 
+    box-shadow: 0 0 10px rgba(36, 67, 40, 0.8); 
+    padding: 15px; 
+    border-radius: 8px; 
+    width: 500px; 
+} 

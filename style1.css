@@ -1,0 +1,16 @@
+body{
+    background-image: url("1.jpg");
+}
+p{
+        color: black;
+        text-align: center;
+        font-size: 0.75cm;
+        font-family: Verdana;
+}
+nav{
+        color: aquamarine;
+        text-align: left;
+        font-size: x-large;
+        font-family: Verdana;
+        font-style: normal;
+}
